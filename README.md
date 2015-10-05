@@ -4,8 +4,16 @@ Lembed KiCad symbol & footprint library
 
 
 
+
+
+
 This is a KiCad schematic & footprint library used by Lembed.
+
 [KiCad](http://www.kicad-pcb.org) - an open source EDA tools
+
+
+
+
 
 
 License
