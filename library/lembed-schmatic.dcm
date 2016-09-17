@@ -100,6 +100,11 @@ D USB Mini B connector
 K USB Mini B, USB
 $ENDCMP
 #
+$CMP PE4259
+D PE4259
+K PE4259 RF
+$ENDCMP
+#
 $CMP RFM12A
 D RFM12B Universal ISM band FSK transceiver
 F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettronici/Ibridi/HOPE_RFM12B.pdf
@@ -143,6 +148,12 @@ $ENDCMP
 $CMP SW_PUSH
 D Push Button
 K Switch
+$ENDCMP
+#
+$CMP SX1278
+D SX1278
+K LoRa SX1278
+F http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf
 $ENDCMP
 #
 $CMP Si2301DS
